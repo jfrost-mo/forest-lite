@@ -1,4 +1,6 @@
-
+> [!IMPORTANT]
+> FOREST-lite is no longer maintained, and issues and pull requests are no longer accepted. For an alternative model evaluation tool please see [CSET](https://github.com/MetOffice/CSET).
+> 
 <p align="center">
 <img src="https://raw.githubusercontent.com/MetOffice/forest-lite/master/logo.svg"
         width="350px" align="center" alt="FOREST-lite">
